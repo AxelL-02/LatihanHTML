@@ -1,0 +1,170 @@
+*,html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* background-color: antiquewhite; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 985px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.navbar{
+    /* background-color: antiquewhite; */
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 4px solid black;
+}
+
+.pribadi{
+    /* background-color: antiquewhite; */
+    height: 320px;
+    margin-top: 25px;
+}
+
+.pribadi h3{
+    /* background-color: antiquewhite; */
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+
+.foto{
+    /* background-color: antiquewhite; */
+    position: absolute;
+    width: 180px;
+    top: 187px;
+    left: 600px;
+    border-radius: 7px;
+    box-shadow: 10px 10px 6px -6px rgba(0,0,0,0.31);
+    -webkit-box-shadow: 10px 10px 6px -6px rgba(0,0,0,0.31);
+    -moz-box-shadow: 10px 10px 6px -6px rgba(0,0,0,0.31);
+    /* margin-left: 300px; */
+}
+
+.data h5{
+    /* background-color: antiquewhite; */
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.pendidikan{
+    height: 260px;
+}
+
+.pendidikan h3{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+
+.datap p{
+    margin: 25px;
+    font-weight: 700;
+}
+
+.datap h5{
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.pengalaman{
+    /* background-color: antiquewhite; */
+    width: 45%;
+    height: 170px;
+
+}
+
+.pengalaman h3{
+    /* background-color: antiquewhite; */
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+
+.dataan h5{
+    /* background-color: aqua; */
+    font-weight: 500;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.skill{
+    width: 45%;
+    position: absolute;
+    top: 676px;
+    padding: 10px;
+    margin-left: 50%;
+}
+
+.skill h3{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+
+.uls1{
+    margin-left: 25px;
+    padding: 10px;
+}
+
+.uls2{
+    position: absolute;
+    top: 87px;
+    left: 250px;
+}
+
+.datas h5{
+    font-weight: 500;
+}
+
+.sosmed h3{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+
+.data span{
+    font-weight: 500;
+}
+
+.datap span{
+    font-weight: 500;
+}
+
+.span1{margin-left: 120px;}
+.span2{margin-left: 19px;}
+.span3{margin-left: 112px;}
+.span4{margin-left: 122px;}
+.span5{margin-left: 71px;}
+.span6{margin-left: 81px;}
+.span7{margin-left: 43px;}
+.span8{margin-left: 111px;}
+.span9{margin-left: 128px;}
+.span10{margin-left: 45px;}
+.span11{margin-left: 34px;}
+.span12{margin-left: 33px;}
+.span13{margin-left: 14px;}
+
+.sm{
+    display: flex;
+    justify-content: center;
+    gap: 410px;
+    padding-top: 15px;
+}
+
+.ftsm img{
+    width: 50px;
+    height: 50px;
+}
+
+.ftsm{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    left: 550px;
+    gap: 425px;
+}
